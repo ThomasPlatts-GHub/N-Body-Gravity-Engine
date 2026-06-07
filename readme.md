@@ -1,0 +1,1 @@
+This project will be a true orbital simulation using vectors and the Newtonian formulae for gravitational force accounting for masses, radii and gravity of bodies
